@@ -1,0 +1,22 @@
+body {
+
+ font-family: "Hiragino Kaku Gothic ProN";
+}
+
+a {
+ text-decoration: none;
+}
+
+h1 {
+ font-family: 'Permanent Marker',cursive;
+}
+
+.job {
+ float: left;
+}
+
+.page {
+ margin-left: 100px;
+ margin-top:50px;
+ margin-bottom: 50px;
+}
